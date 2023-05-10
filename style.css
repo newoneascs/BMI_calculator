@@ -52,4 +52,17 @@ body {
     font-size: 20px;
     font-weight: bold;
   }
+
+  .image-container {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+  
   
